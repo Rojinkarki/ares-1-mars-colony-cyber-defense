@@ -8,6 +8,10 @@ The environment separates Earth Mission Control, Mars operational networks, auto
 
 The project demonstrates both **authorized and unauthorized traffic scenarios**, including a compromised Mars rover attempting to reach an oxygen-control system and a rogue device attempting to gain access through a secured switch port.
 
+## 🗺️ Network Topology
+
+![ARES-1 Mars Colony Cyber Defense Network](ares-1-network-topology.png.png)
+
 
 ## 🛰️ Network Architecture
 
