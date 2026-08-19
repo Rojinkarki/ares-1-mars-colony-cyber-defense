@@ -122,7 +122,7 @@ This project demonstrates practical experience with:
 
 ## 📁 Project Files
 
-* `ARES-1_Mars_Colony_Cyber_Defense_FINAL.pkt` — Final Cisco Packet Tracer project file
+* `Mars Colony critical infrastructure cyber defense final.pkt` — Final Cisco Packet Tracer project file
 * `README.md` — Project documentation, architecture, security controls, attack scenarios, and verification results
 
 To explore the network, download the `.pkt` file and open it using **Cisco Packet Tracer**.
